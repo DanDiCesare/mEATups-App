@@ -29,3 +29,5 @@
         android:fitsSystemWindows="true"
         app:menu="@menu/drawer_view" />
 </android.support.v4.widget.DrawerLayout>
+    <?xml version="1.0" encoding="utf-8"?>
+
